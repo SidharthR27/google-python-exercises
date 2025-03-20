@@ -20,11 +20,11 @@ class Stack:
     def __repr__(self):
         return str(self.items)
 
-a = Stack([])
+# a = Stack([])
 # print(a.pop())
-print(a)
-print(a.pop())
-print(a)
+# print(a)
+# print(a.pop())
+# print(a)
     
 
         
